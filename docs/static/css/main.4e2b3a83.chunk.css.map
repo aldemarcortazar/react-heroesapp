@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/ui/navbar.css"],"names":[],"mappings":"AAAA,QACI,WAAW,CACX,oBAAY,CAAZ,YAAY,CACZ,qCAA8B,CAA9B,6BACJ","file":"main.4e2b3a83.chunk.css","sourcesContent":[".navbar{\r\n    width:100vw;\r\n    display:flex;\r\n    justify-content: space-between;\r\n}"]}
